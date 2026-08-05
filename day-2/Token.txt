@@ -1,0 +1,27 @@
+Token
+------
+1. identifiers
+2. operators
+3. keywords
+4. literal
+5. punctuators
+
+IDENTIFIERS
+------------
+1. contains uppercase, lower case, digits
+2. no special character
+3. identifier can start with uppercase,lowercase,_
+4. keywords are not allowed
+5. it is case sensitive
+     
+Variable
+---------
+it is an countainer to store a value
+
+comments
+---------
+# single line comments
+''' multi
+line 
+comments '''
+

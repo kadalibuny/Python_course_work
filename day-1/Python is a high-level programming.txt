@@ -1,0 +1,20 @@
+Python is a high-level programming language.
+It was created by Guido van Rossum.
+Python was first released in 1991.
+It is used for web development, AI, machine learning, data science, automation, and software development.
+Features of Python
+
+1. Easy to Learn – Python has simple syntax.
+2. Easy to Read – Python code is clear and understandable.
+3. Free and Open Source – Anyone can use Python for free.
+4. High-Level Language – It is easy for humans to understand.
+5. Interpreted Language – Python executes code through an interpreter.
+6. Dynamically Typed – No need to declare the variable type.
+7. Object-Oriented – Supports classes, objects, inheritance, etc.
+8. Portable – Python programs can run on Windows, Linux, and macOS.
+9. Large Library Support – Provides many built-in and third-party libraries.
+10. Open Source Community – Has a large developer community.
+11. Automatic Memory Management – Python manages memory automatically.
+12. Supports Multiple Programming Styles – Procedural, object-oriented, and functional programming.
+13. Extensible – Can work with languages like C and C++.
+14. Used in Many Fields – AI, ML, web development, data science, automation, cybersecurity, etc.
