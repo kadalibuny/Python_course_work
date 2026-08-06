@@ -1,0 +1,81 @@
+Data types in python
+
+Numerical data types : int, float, complex
+Sequence data types : string, list, tuple
+Mapping data : set, dict
+Boolean data types : True, Flase
+None type (empty value)
+
+Int data type
+---------------
+it is a number
+ex : a=10
+
+
+Float datatype
+---------------
+it is a number with decimal point
+ex : m= 10.9898
+
+
+Complex
+--------
+it is avalue with rael and imaginary part
+ex : b=2+6j
+
+String
+-------
+It is a collection of characters
+It is immutable ( memory address changes when its modifies)
+It is enclosed in single and double coutations
+ex : s='bunnhy'
+
+list
+-------
+It is a collection of elements enclosed in square braces
+it is mutable
+it will allow duplicates
+it is dynamically sized
+it is an hetrogenious and ordered
+ex : [1,2,'str',[1,2,3]]
+
+tuple
+------
+it is a collection of emelemnts enclosed in paranthesis
+it is immutable , fixed size , heterogenous, ordered, allows duplictes
+ex : t1=(1,2,3,4)
+
+
+set
+-----
+IT is an collection of unique emements enclosed in curly braces
+it doesnot allow duplicates
+it is unordered
+it is dynamically sized
+it is heterogenous
+set is mutable
+ex : s2={2,3,4,5,6}
+
+dict
+-------
+it is a collection of elements stored in key value pairs
+it is mutable
+values can be duplicates but not keys
+it is ordered
+it is hetrogenious
+it is dynamically sized
+ex : d1={'name': 'bunny','age':20}
+
+Boolean
+--------
+it is true(1) or flase(0)
+ex :
+a=True
+b=Flase
+
+none
+-----
+it is used to declare empty variables
+
+
+
